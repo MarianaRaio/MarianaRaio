@@ -38,12 +38,6 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MarianaRaio/MarianaRaio/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
 </picture>
 
-###
-
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/MarianaRaio/MarianaRaio/languages-output/languages.svg?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=synthwave&hide_border=true&order=2" height="145" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=MarianaRaio&locale=pt-br&mode=daily&theme=synthwave&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
 
 ###
 
